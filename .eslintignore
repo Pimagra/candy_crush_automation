@@ -1,0 +1,4 @@
+e2e/README.md
+e2e/**/*.json
+e2e/tests/reports/**
+e2e/tests/config/test.conf.js
